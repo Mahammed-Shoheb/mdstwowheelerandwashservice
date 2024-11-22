@@ -10,7 +10,13 @@ const WhyChooseUs = () => {
         <Title titleFirstPart="Why" titleSecondPart="Choose Us?" />
         <div className="grid sm:grid-cols-2 gap-12 items-center justify-items-center">
           <div>
-            <Image src={img5} alt="" className="object-contain rounded-md" />
+            <Image
+              src={img5}
+              alt=""
+              className="object-contain rounded-md"
+              width={600}
+              height={450}
+            />
             {/* <Image
               src={img6}
               alt=""

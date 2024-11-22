@@ -15,7 +15,13 @@ const Mission = () => {
             and are committed to ensuring 100% satisfaction for all our
             customers.
           </p>
-          <Image src={missionImg} alt="" className="rounded-md" />
+          <Image
+            src={missionImg}
+            alt=""
+            className="rounded-md"
+            width={600}
+            height={450}
+          />
         </div>
       </div>
     </section>

@@ -91,6 +91,8 @@ const Services = () => {
                 <Image
                   src={service.img}
                   alt=""
+                  width={600}
+                  height={450}
                   className="object-cover rounded-tl-md rounded-tr-md select-none pointer-events-none"
                 />
                 <div className="px-4 py-2">

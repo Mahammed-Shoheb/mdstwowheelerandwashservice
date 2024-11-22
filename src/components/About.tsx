@@ -19,26 +19,36 @@ const About = () => {
               src={img1}
               alt=""
               className="col-span-3 w-full h-full rounded-md object-cover"
+              width={600}
+              height={450}
             />
             <Image
               src={img2}
               alt=""
               className="col-span-3 w-full h-full rounded-md object-cover"
+              width={600}
+              height={450}
             />
             <Image
               src={img3}
               alt=""
               className="col-span-2 w-full h-full rounded-md object-cover"
+              width={600}
+              height={450}
             />
             <Image
               src={img4}
               alt=""
               className="col-span-2 w-full h-full rounded-md object-cover"
+              width={600}
+              height={450}
             />
             <Image
               src={img5}
               alt=""
               className="col-span-2 w-full h-full rounded-md object-cover"
+              width={600}
+              height={450}
             />
           </div>
           <div className="mt-4 text-gray-700">

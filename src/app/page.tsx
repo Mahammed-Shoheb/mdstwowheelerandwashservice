@@ -1,8 +1,6 @@
 import {
   About,
   Contact,
-  Footer,
-  Header,
   Hero,
   Mission,
   Services,
