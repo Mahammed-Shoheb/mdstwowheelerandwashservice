@@ -12,18 +12,14 @@ import {
 
 export default function Home() {
   return (
-    <div>
-      <Header />
-      <main>
-        <Hero />
-        <About />
-        <Services />
-        <WhyChooseUs />
-        <Mission />
-        <Visit />
-        <Contact />
-      </main>
-      <Footer />
-    </div>
+    <main>
+      <Hero />
+      <About />
+      <Services />
+      <WhyChooseUs />
+      <Mission />
+      <Visit />
+      <Contact />
+    </main>
   );
 }
