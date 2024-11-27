@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <section
       id="home"
-      className="bg-[url('/bgImgHero.jpg')] sm:bg-cover sm:bg-left bg-center bg-no-repeat"
+      className="bg-[url('/bgImgHero.jpg')] sm:bg-cover sm:bg-left bg-center bg-no-repeat bg-black"
     >
       <div className="h-[60vh] sm:h-[130vh] md:h-[100vh] flex flex-col items-center sm:items-start justify-center max-width-container text-center sm:text-left">
         <h1 className="text-5xl md:text-7xl font-bold text-white sm:max-w-[45%] mb-4">

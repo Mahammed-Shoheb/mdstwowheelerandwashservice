@@ -51,7 +51,7 @@ const Contact = () => {
   return (
     <section
       id="contact"
-      className="section-padding bg-[url('/bg3.jpg')] bg-cover bg-no-repeat bg-center text-white"
+      className="section-padding bg-[url('/bg3.jpg')] bg-cover bg-no-repeat bg-center text-white bg-black"
     >
       <div className="max-width-container">
         <Title titleFirstPart="contact" titleSecondPart="us" />
