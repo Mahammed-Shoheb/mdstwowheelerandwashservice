@@ -11,7 +11,7 @@ const Visit = () => {
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d240.5631682232568!2d76.3994166495252!3d15.26721278605732!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb9d7d118f393d7%3A0xa83e0126ac097a2c!2sMDS%20Two%20Wheeler%20And%20Water%20Service!5e0!3m2!1sen!2sin!4v1732033911984!5m2!1sen!2sin"
             width="400"
             height="300"
-            className="border-none w-full"
+            className="border-none w-full h-64 sm:h-92"
             allowFullScreen={true}
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
